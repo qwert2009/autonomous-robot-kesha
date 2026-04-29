@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+faster-whisper
+ultralytics
+python-multipart
+httpx
+pillow
+numpy
+opencv-python-headless
+yandex-music
+feedparser
+websockets

@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Env
+.env
+
+# Robot memory (auto-generated)
+kesha_memory*.json
+kesha_graph*.json
+
+# Audio
+*.wav
+*.mp3
+
+# Logs
+*.log
+
+# Models (large files - download separately)
+*.pt
+*.onnx
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.json
